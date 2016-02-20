@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SomaGanesha.com]]></title>
+        <description><![CDATA[SomaGanesha.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Feb 2016 20:30:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Art of Tarot]]></title>
+            <description><![CDATA[<article><h1>Art of Tarot</h1><p>Along this artist's path I've worked to develop my intuition. It's not been an easy task, learning to trust it, to discern it from ego. In fact, its probably been the most scientific thing I've ever done in my life. Short of, well, sciency science stuff.  Then, at some point, I stopped being so analytical about it. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74e565fa51d09547a09ff85d88cf5f9051b8c1ff.jpg"></article>]]></description>
+            <link>undefinedart-of-tarot/index.html</link>
+            <guid isPermaLink="false">0098398a-3dcc-4e92-aa76-9fe6a14134aa</guid>
+            <pubDate>Sat, 20 Feb 2016 20:30:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
