@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T07:49:39.828Z'
-dateModified: '2016-02-21T07:49:04.494Z'
+datePublished: '2016-02-21T07:53:18.922Z'
+dateModified: '2016-02-21T07:53:14.057Z'
 title: About Soma Ganesha
 author: []
 sourcePath: _posts/2016-02-21-about-soma-ganesha.md
@@ -26,7 +26,7 @@ _type: Article
 
 ## About Soma Ganesha
 
-It's a name that was bestowed upon me during a mystical healing experience. Something common in my family, though spoken of as an afterthought. Some folks take refuge in the name, change their name to match it. For me, it didn't seem like something I should do, but I had to honor it. So I did some research:
+A name bestowed upon me during a mystical experience. Something common in my family, though oft spoken of as an afterthought. Some folks take refuge in the name, change their name to match it. For me, it didn't seem like something I should do, but I had to honor it. So I did some research:
 
 ## Ganesha: 
 
