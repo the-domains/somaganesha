@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T07:48:54.476Z'
-dateModified: '2016-02-21T07:48:01.903Z'
+datePublished: '2016-02-21T07:49:39.828Z'
+dateModified: '2016-02-21T07:49:04.494Z'
 title: About Soma Ganesha
 author: []
 sourcePath: _posts/2016-02-21-about-soma-ganesha.md
