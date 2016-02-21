@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T07:55:35.830Z'
-dateModified: '2016-02-21T07:55:28.671Z'
+datePublished: '2016-02-21T07:57:46.161Z'
+dateModified: '2016-02-21T07:57:27.538Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-21-about-soma-ganesha.md
@@ -33,6 +33,8 @@ A name bestowed upon me during a mystical experience. Something common in my fam
 Most people are familiar with Ganesha, the elephant headed potbellied God from the Hindu pantheon. Straight from [Wikipedia][0]: 
 > 
 > Ganesha is widely revered as the remover of obstacles, the patron of arts and sciences and the deva of intellect and wisdom. As the god of beginnings, he is honoured at the start of rituals and ceremonies. Ganesha is also invoked as patron of letters and learning during writing sessions.
+
+## 
 
 ## Soma: 
 
