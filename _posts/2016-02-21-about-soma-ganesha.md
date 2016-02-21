@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T07:40:31.074Z'
-dateModified: '2016-02-21T07:40:16.253Z'
+datePublished: '2016-02-21T07:42:48.774Z'
+dateModified: '2016-02-21T07:42:48.626Z'
 title: About Soma Ganesha
 author: []
 sourcePath: _posts/2016-02-21-about-soma-ganesha.md
@@ -48,7 +48,9 @@ Some call it the original entheogen, some have claimed it is the [Amanita muscar
 
 Soma's meaning is varied, invented, created, amalgamated.
 
-**Soma Ganesha** then is the remover of obstacles to the embodiment of a transrational, blissful, creative experience.
+## Soma Ganesha
+
+Is the remover of obstacles to the embodiment of a transrational, blissful, creative experience.
 
 [0]: https://en.m.wikipedia.org/wiki/Ganesha
 [1]: https://en.m.wikipedia.org/wiki/Brave_New_World
