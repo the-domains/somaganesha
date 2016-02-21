@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Free Weekly Tarot Newsletter & Personal Readings '
-datePublished: '2016-02-21T07:36:43.703Z'
-dateModified: '2016-02-21T07:36:42.721Z'
+datePublished: '2016-02-21T08:27:53.678Z'
+dateModified: '2016-02-21T08:27:16.206Z'
 title: Art of Tarot
 author: []
 sourcePath: _posts/2016-02-20-art-of-tarot.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Art of Tarot
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b32ff6bf926baa4da5ddd04f0dbd78f7e918c5d8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/13cdecfa4d7bfb64b11a609eadb5d5ad48e155df.jpg)
 
 Along this artist's path I've worked to develop my intuition. It's not been an easy task, learning to trust it, to discern it from ego. In fact, its probably been the most scientific thing I've ever done in my life. Short of, well, sciency science stuff.  Then, at some point, I stopped being so analytical about it. 
 
