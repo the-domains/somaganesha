@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Free Weekly Tarot Newsletter & Personal Readings '
-datePublished: '2016-02-20T20:30:02.571Z'
-dateModified: '2016-02-20T20:29:42.668Z'
+datePublished: '2016-02-21T07:36:43.703Z'
+dateModified: '2016-02-21T07:36:42.721Z'
 title: Art of Tarot
 author: []
+sourcePath: _posts/2016-02-20-art-of-tarot.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-20-art-of-tarot.md
-published: true
 url: art-of-tarot/index.html
 _type: Article
 
