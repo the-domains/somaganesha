@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T05:25:52.112Z'
-dateModified: '2016-02-26T05:23:51.226Z'
+datePublished: '2016-02-26T16:39:24.368Z'
+dateModified: '2016-02-26T05:26:00.805Z'
 title: 'Indiegogo:'
 author: []
+sourcePath: _posts/2016-02-26-indiegogo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-indiegogo.md
-published: true
 url: indiegogo/index.html
 _type: Article
 
