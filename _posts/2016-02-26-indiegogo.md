@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T16:42:33.681Z'
-dateModified: '2016-02-26T16:42:05.366Z'
-title: 'Indiegogo:'
+datePublished: '2016-02-26T16:51:46.521Z'
+dateModified: '2016-02-26T16:51:25.602Z'
+title: Indiegogo
 author: []
 sourcePath: _posts/2016-02-26-indiegogo.md
 published: true
@@ -22,7 +22,7 @@ url: indiegogo/index.html
 _type: Article
 
 ---
-# Indiegogo:
+# Indiegogo
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa94388e-788e-4c22-b29b-1605866b665a.png)
 
 You can contribute and or share the campaign for my novel, Priya and the Unseen World by clicking here [http://igg.me/at/priya][0]
