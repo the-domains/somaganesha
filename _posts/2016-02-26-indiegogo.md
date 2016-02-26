@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'You can contribute and or share the campaign for my novel, Priya and the Unseen World by clicking here http://igg.me/at/priya'
-datePublished: '2016-02-26T17:32:47.256Z'
-dateModified: '2016-02-26T17:32:37.547Z'
+datePublished: '2016-02-26T17:33:04.650Z'
+dateModified: '2016-02-26T17:32:58.399Z'
 title: "Indiegogo: Priya\_"
 author: []
 sourcePath: _posts/2016-02-26-indiegogo.md
