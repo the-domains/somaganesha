@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T16:41:54.267Z'
-dateModified: '2016-02-26T16:40:05.345Z'
+datePublished: '2016-02-26T16:42:33.681Z'
+dateModified: '2016-02-26T16:42:05.366Z'
 title: 'Indiegogo:'
 author: []
 sourcePath: _posts/2016-02-26-indiegogo.md
