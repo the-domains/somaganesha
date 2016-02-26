@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Free Weekly Tarot Newsletter & Personal Readings '
-datePublished: '2016-02-21T22:04:32.968Z'
-dateModified: '2016-02-21T22:04:20.052Z'
+datePublished: '2016-02-26T04:45:14.900Z'
+dateModified: '2016-02-26T04:45:14.358Z'
 title: Art of Tarot
 author: []
 sourcePath: _posts/2016-02-20-art-of-tarot.md
@@ -29,7 +29,7 @@ Along this artist's path I've worked to develop my intuition. It's not been an e
 
 For a while I've been using the Osho Zen Tarot deck and sending out readings to people, doing them in person, or just for myself. I truly love and enjoy the ritualistic aspect of it, as well as the access it grants to information just out of reach from the conscious mind. Like my other creative expressions, I strive to act as a channel for the information.
 
-I am offering a weekly Tarot Newsletter, free, just email david@somaganesha.com and you'll be on the list. If you like it, and want a personal reading, here are the prices for those:
+I am offering a weekly Tarot Newsletter, free, just email david@somaganesha.com - If you like it, and want a personal reading, here are the prices for those:
 
 * $7 for a 1 card quickie
 * $14 for a 3 card spread
