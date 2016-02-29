@@ -17,8 +17,8 @@ keywords:
   - wakes
   - hearing
 description: 'Hi, my name is David Jacques and this is my Indiegogo campaign video for my upcoming novel, Priya and the Unseen World. The story centers around Priya, a young girl, who hears voices, but when one voice comes calling, OUA, she falls into a coma.'
-datePublished: '2016-02-29T17:45:52.879Z'
-dateModified: '2016-02-29T17:45:17.103Z'
+datePublished: '2016-02-29T20:40:57.612Z'
+dateModified: '2016-02-29T20:38:47.745Z'
 author:
   - name: Priya and the Unseen World
     url: 'http://facebook.com/209675019386064'
