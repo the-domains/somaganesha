@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'urn:uuid:79da03af-9712-42c8-846e-c46805988a6b'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T16:37:52.375Z'
-dateModified: '2016-02-29T16:37:42.751Z'
+datePublished: '2016-02-29T16:45:33.410Z'
+dateModified: '2016-02-29T16:38:10.976Z'
 author: []
 title: 'Indiegogo: Priya Novel'
 sourcePath: _posts/2016-02-29-indiegogo-priya-novel.md
@@ -19,6 +18,7 @@ publisher:
   domain: ''
   url: null
   favicon: null
+url: indiegogo-priya-novel/index.html
 _context: 'http://schema.org'
 _type: Article
 
