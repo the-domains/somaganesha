@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.facebook.com/Priyaand/videos/209677399385826/'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - priya
   - unseen
@@ -17,8 +17,8 @@ keywords:
   - wakes
   - hearing
 description: 'Hi, my name is David Jacques and this is my Indiegogo campaign video for my upcoming novel, Priya and the Unseen World. The story centers around Priya, a young girl, who hears voices, but when one voice comes calling, OUA, she falls into a coma.'
-datePublished: '2016-02-29T17:44:07.273Z'
-dateModified: '2016-02-29T17:42:54.048Z'
+datePublished: '2016-02-29T17:45:52.879Z'
+dateModified: '2016-02-29T17:45:17.103Z'
 author:
   - name: Priya and the Unseen World
     url: 'http://facebook.com/209675019386064'
