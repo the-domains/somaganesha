@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T16:37:32.970Z'
-dateModified: '2016-02-29T16:37:16.834Z'
+datePublished: '2016-02-29T16:37:52.375Z'
+dateModified: '2016-02-29T16:37:42.751Z'
 author: []
 title: 'Indiegogo: Priya Novel'
 sourcePath: _posts/2016-02-29-indiegogo-priya-novel.md
