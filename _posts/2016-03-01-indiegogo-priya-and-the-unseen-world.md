@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=x9ZQa4BBwWM&feature=youtu.be'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - jimmy
   - world
 description: 'Hi, my name is David Jacques and this is my Indiegogo campaign video for my upcoming novel, Priya and the Unseen World. The story centers around Priya, a young girl, who hears voices, but when one voice comes calling, OUA, she falls into a coma.'
-datePublished: '2016-03-01T04:00:08.702Z'
-dateModified: '2016-03-01T03:59:27.233Z'
+datePublished: '2016-03-01T04:05:10.010Z'
+dateModified: '2016-03-01T04:04:29.604Z'
 author:
   - name: David Jacques
     url: 'https://www.youtube.com/channel/UC_6U44x_tuXjFqNlG1GGSlw'
@@ -70,6 +69,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: indiegogo-priya-and-the-unseen-world/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
