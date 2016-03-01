@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'My time with you showed me, gentleness is who I am...'
-datePublished: '2016-03-01T04:25:10.363Z'
-dateModified: '2016-03-01T04:21:10.819Z'
+datePublished: '2016-03-01T04:28:42.332Z'
+dateModified: '2016-03-01T04:28:18.101Z'
 title: Love Letter
 author: []
+sourcePath: _posts/2016-03-01-love-letter.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-01-love-letter.md
-published: true
 url: love-letter/index.html
 _type: Article
 
