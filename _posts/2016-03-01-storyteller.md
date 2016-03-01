@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "What are you doing?  My parents have asked me, and they wonder, why don't I settle in for a normal life."
-datePublished: '2016-03-01T03:57:51.449Z'
-dateModified: '2016-03-01T03:57:13.882Z'
+datePublished: '2016-03-01T04:34:55.463Z'
+dateModified: '2016-03-01T04:34:34.842Z'
 author: []
 title: Storyteller
+sourcePath: _posts/2016-03-01-storyteller.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-03-01-storyteller.md
-published: true
 url: storyteller/index.html
 _context: 'http://schema.org'
 _type: Article
@@ -26,7 +26,9 @@ _type: Article
 # Storyteller
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/826af7f6-8656-4a04-923f-560d384d760e.png)
 
-> What are you doing? 
+> What are you doing?
+> 
+> 
 
 My parents have asked me, and they wonder, why don't I settle in for a normal life. I've engaged it, toyed with the idea for most of my life. For a long time, I gave up on my dreams, by pursuing a degree in technical writing and working for **Apple** as a _Genius_ - I used to joke that if I left I would have to get a job at **Microsoft** as a _Guru_ - after which I'd only be able to top it by being a janitor at **Google**. At which point I'd be permanently unemployable.
 
