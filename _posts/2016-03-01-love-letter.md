@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'My time with you showed me, gentleness is who I am...'
-datePublished: '2016-03-01T04:28:42.332Z'
-dateModified: '2016-03-01T04:28:18.101Z'
+description: ''
+datePublished: '2016-07-17T18:53:41.052Z'
+dateModified: '2016-07-17T18:53:31.072Z'
 title: Love Letter
 author: []
 sourcePath: _posts/2016-03-01-love-letter.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: true
 url: love-letter/index.html
 _type: Article
 
@@ -29,8 +24,7 @@ My time with you showed me,
 
 gentleness is who I am, 
 
-what I am,
-inside, 
+what I am, inside, 
 
 beyond the fluff, 
 
@@ -46,9 +40,7 @@ it is the love I have,
 
 the extraordinary gift, 
 
-but the sleeping world doesn't appreciate gentleness, 
-so my experience goes, 
-the corresponding fear of it being taken advantage of by others, 
+but the sleeping world doesn't appreciate gentleness, so my experience goes, the corresponding fear of it being taken advantage of by others, 
 
 internalized, 
 
@@ -60,7 +52,7 @@ I have run with abandon,
 
 all over this sleeping world, 
 
-but I never let the light go out,  
+but I never let the light go out, 
 
 though I fear showing it, 
 
@@ -72,12 +64,9 @@ or I deserve to exist in this world?
 
 Yet I do, 
 
-I've carved out a niche of people, 
-a tribe,
-hard fought and won trust, that bump up against the edges of shadow, 
-the apparent barrier between the consuming love I yearn to experience, and the gentleness inside, 
+I've carved out a niche of people, a tribe, hard fought and won trust, that bump up against the edges of shadow, the apparent barrier between the consuming love I yearn to experience, and the gentleness inside, 
 
-the slow burning sensation as every iteration of my being returns to light,  
+the slow burning sensation as every iteration of my being returns to light, 
 
 my way, 
 
@@ -85,6 +74,4 @@ home.
 
 Now I can turn to myself and say, 
 > 
-> I trust you, 
-> I believe you, 
-> and I accept what you're saying.
+> I trust you, I believe you, and I accept what you're saying.
